@@ -3,3 +3,6 @@ welcome to sharp
 dsa
 html
 javascript
+
+
+finish training
