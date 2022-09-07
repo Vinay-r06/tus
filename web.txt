@@ -4,8 +4,14 @@ dsa
 html
 javascript
 
+nodejs
+
 
 
 finish training
 
+
+done with backend
+
 final prep
+
