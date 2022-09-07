@@ -8,3 +8,5 @@ nodejs
 
 
 finish training
+
+done with backend
